@@ -107,5 +107,5 @@ The special terminal state (25) has all zero state features.
 6. Why is 1 added to $Z_s$ for terminal states?  (hint: think of the equation for $Z_{s}$ in terms of returns of trajectories)
 
 ## Submission
-Prepare a PDF report with your answers to the questions (preferably typeset in LaTeX) and submit the PDF along with your code in a zip file. Submit via Gradescope.
+Prepare a PDF report with your answers to the questions (preferably typeset in LaTeX) and submit the PDF and code separately on Gradescope under the respective submissions.
 
